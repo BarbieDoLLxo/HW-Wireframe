@@ -1,0 +1,31 @@
+body {
+    color: black; border: 15cm;
+    padding: 8%;
+}
+article { 
+    background-color: blueviolet;border: 3cm; padding: 3%;
+    
+
+
+}
+h1  
+ {
+    background-color: palevioletred;
+}
+h2 { 
+    background-color: aqua;
+
+}
+ul {
+    color: red; font-size: 14pt;
+}
+h3 { 
+    background-color: royalblue;
+}
+  p {
+      color: white; font-size: 13pt;
+  }
+  footer {
+      background-color: black;
+  }
+
